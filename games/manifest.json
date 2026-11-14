@@ -1,3 +1,9 @@
 {
-  "games": []
+  "games": [
+    {
+      "name": "Zombie Rush",
+      "file": "zombie-rush.html",
+      "path": "games/zombie-rush.html"
+    }
+  ]
 }
